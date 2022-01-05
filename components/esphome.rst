@@ -64,8 +64,8 @@ Advanced options:
   memory.
 
 Choose the appropriate board from
-  `this list <https://platformio.org/boards?count=1000&filter%5Bplatform%5D=espressif8266>`__ for the ESP8266, and
-  `this list <https://platformio.org/boards?count=1000&filter%5Bplatform%5D=espressif32>`__ for the ESP32 (the icon
+  `this list <https://registry.platformio.org/packages/platforms/platformio/espressif8266/boards>`__ for the ESP8266, and
+  `this list <https://registry.platformio.org/packages/platforms/platformio/espressif32/boards>`__ for the ESP32 (the icon
   next to the name can be used to copy the board ID). *This only affects pin aliases and some internal settings*,
   if unsure choose a generic board from Espressif.
 
